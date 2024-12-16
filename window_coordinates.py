@@ -34,7 +34,7 @@ def main(application_name):
     for window in window_information_list:
         print(window)
 
-if __name__ == "__main__":
-    arg1 = sys.argv[1]
-    print(f"Getting window information for {arg1}...")
-    main(sys.argv[1])
+# if __name__ == "__main__":
+#     arg1 = sys.argv[1]
+#     print(f"Getting window information for {arg1}...")
+#     main(sys.argv[1])
